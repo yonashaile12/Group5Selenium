@@ -11,6 +11,5 @@ public class Config {
         username = "user165";
         password = "UserUser123";
 
-        System.out.println("Done");
     }
 }

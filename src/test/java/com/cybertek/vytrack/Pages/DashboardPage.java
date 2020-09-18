@@ -30,6 +30,8 @@ public class DashboardPage {
         wait.until(ExpectedConditions.visibilityOfElementLocated(fleetMenu)).click();
         implicitlyWait();
         wait.until(ExpectedConditions.visibilityOfElementLocated(odometerLink)).click();
+
+        System.out.println("Yonas");
     }
 
 }
