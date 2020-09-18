@@ -10,5 +10,7 @@ public class Config {
         baseUrl = "https://qa2.vytrack.com/user/login";
         username = "user165";
         password = "UserUser123";
+
+        System.out.println("Done");
     }
 }
